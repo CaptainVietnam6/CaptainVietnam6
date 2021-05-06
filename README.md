@@ -2,4 +2,4 @@
 - 👀 I’m currently interested in Aerospace & Electrical engineering, Astrodynamics, and Programming!
 - 🌱 I’m currently studying Python and right now my main focus is on Discord.py
 - 📫 You can reach me via my email <kiet.riley2005@gmail.com>, discord <CaptainVietnam6#0001>, or instagram <@itz_kietttttttttt>
-- ©  I have Copyright licenses for all my repos, please check them out!
+- ©  I usually have a copyright license in all my repos in the "LICENSE.txt" file
